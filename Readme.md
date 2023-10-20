@@ -14,3 +14,8 @@ Page Permettant de Scraper les titres des repositories d'un utilisateur sur base
 
 ## Captures
 
+![image](https://github.com/NathanLombardelli/ScrapingGitRepository/assets/55028792/5d2b7164-574f-4f33-8ada-2b43f670c5d5)
+
+</br>
+
+![image](https://github.com/NathanLombardelli/ScrapingGitRepository/assets/55028792/aa951b92-82a3-42a0-923a-82d7e3a41340)
